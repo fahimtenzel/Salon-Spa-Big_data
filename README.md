@@ -48,9 +48,6 @@ _Based on the analysis in the notebook, here are some of the key insights I foun
 
 The main project file is the **`salon_analytics_notebook.ipynb`** file in this repository. You can view the code, outputs, and visualizations directly here on GitHub.
 
-* Simply click on the file name above to see the full notebook.
-
-Thank you for reviewing my project!
 
 **Submitted by:**
 FAHIM THANZEEL
