@@ -53,5 +53,5 @@ The main project file is the **`salon_analytics_notebook.ipynb`** file in this r
 Thank you for reviewing my project!
 
 **Submitted by:**
-[Your Full Name]
-[Your Roll Number]
+FAHIM THANZEEL
+24MBMB16
